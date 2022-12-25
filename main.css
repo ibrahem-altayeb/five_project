@@ -35,13 +35,13 @@ color: white;
 }
 .card .text{
   background-color: var(--Dark-desaturated-blue-card-background-);
-padding: 80px;
+  padding: 75px 115px 55px 67px;
   max-width: 565px;
   border-bottom-left-radius: 10px;
   border-top-left-radius: 10px;
 }
 .card .text h1 {
-  font-size: 37px;
+  font-size: 36px;
 }
 .card .text span {
 color: var(--Soft-violet-accent);
